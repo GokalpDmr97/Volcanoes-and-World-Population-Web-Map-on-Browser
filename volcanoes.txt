@@ -1,0 +1,428 @@
+NAME,LOCATION,ELEV,LAT,LON
+Abu,Japan,641,34.50,131.60
+Acamarachi,Chile,6046,-23.30,-67.62
+Acatenango,Guatemala,3976,14.50,-90.88
+Acigöl-Nevsehir,Turkey,1689,38.57,34.52
+Adams,USA,3742,46.21,-121.49
+Adams Seamount,Pacific Ocean,-39,-25.37,-129.27
+Adatara,Japan,1718,37.64,140.29
+Adwa,Ethiopia,1733,10.07,40.84
+Afderà,Ethiopia,1295,13.08,40.85
+Agrigan,Mariana Islands,965,18.77,145.67
+Agua,Guatemala,3760,14.47,-90.74
+Agua de Pau,Azores,947,37.77,-25.47
+Aguilera,Chile,2546,-50.33,-73.75
+Agung,Lesser Sunda Islands,3142,-8.34,115.51
+Ahyi,Mariana Islands,-137,20.42,145.03
+Akademia Nauk,Russia,1180,53.98,159.45
+Akagi,Japan,1828,36.56,139.20
+Akan,Japan,1499,43.38,144.01
+Akhtang,Russia,1956,55.43,158.65
+Akita Komagatake,Japan,1637,39.76,140.80
+Akita Yakeyama,Japan,1366,39.96,140.76
+Akuseki-jima,Japan,584,29.46,129.60
+Akutan,USA,1303,54.13,-165.99
+Alaid,Russia,2339,50.86,155.55
+Alamagan,Mariana Islands,744,17.60,145.83
+Alayta,Ethiopia,1501,12.88,40.57
+Alban Hills,Italy,949,41.73,12.70
+Alcedo,Galápagos Islands,1130,-0.43,-91.12
+Ale Bagu,Ethiopia,1031,13.52,40.63
+Alid,Eritrea,904,14.88,39.92
+Altiplano-Puna Volcanic Complex,Multiple Countries,4600,-22.44,-67.96
+Ambrym,Vanuatu,1334,-16.25,168.12
+Anatahan,Mariana Islands,790,16.35,145.67
+Aneityum,Vanuatu,852,-20.20,169.78
+Aniakchak,USA,1341,56.88,-158.17
+Antisana,Ecuador,5753,-0.48,-78.14
+Aoba,Vanuatu,1496,-15.40,167.83
+Ararat,Turkey,5165,39.70,44.30
+Arenal,Costa Rica,1670,10.46,-84.70
+Arintica,Chile,5597,-18.73,-69.05
+Asacha,Russia,1910,52.36,157.83
+Asama,Japan,2568,36.40,138.53
+Ascensión,South Atlantic Ocean,858,-7.95,-14.37
+Askja,Iceland,1516,65.03,-16.75
+Aso,Japan,1592,32.88,131.11
+Atitlán,Guatemala,3535,14.58,-91.19
+Atka,USA,1533,52.38,-174.15
+Atsonupuri,Russia,1206,44.81,147.14
+Augustine,USA,1252,59.36,-153.43
+Avachinsky,Russia,2741,53.26,158.83
+Awu,Indonesia,1320,3.67,125.50
+Axial Seamount,Pacific Ocean,-1410,45.95,-130.00
+Ayelu,Ethiopia,2145,10.08,40.70
+Azufre,Chile,5846,-21.79,-68.24
+Azuma,Japan,2035,37.73,140.25
+Babuyon Claro,Philippines,1180,19.50,121.90
+Bachelor,USA,2763,43.80,121.60
+Bagana,Papua New Guinea,1750,-6.10,155.20
+Baker,USA,3285,48.79,-121.82
+Bam,Papua New Guinea,685,-3.60,144.85
+Bamus,Papua New Guinea,2248,-5.20,151.20
+Bandai,Japan,1819,37.60,140.10
+Barren Island,India,305,12.29,93.88
+Barrier,Kenya,1032,2.32,36.57
+Bazman,Iran,3490,28.00,60.00
+Beerenberg,Norway,2277,71.10,-8.20
+Belknap,USA,2096,44.28,-121.83
+Bezymianny,Russia,2882,55.98,160.58
+Biliran,Philippines,1187,11.50,124.50
+Bolshoi Semiachik,Russia,1720,54.32,160.02
+Bulusan,Philippines,1565,12.80,124.10
+Butajira,Ethiopia,2281,8.05,38.35
+Cameroon (Mount),Cameroon,4095,4.20,9.17
+Camiguin de Babuyanes,Philippines,712,18.83,121.85
+Canlaon,Philippines,2435,10.41,123.13
+Capulin,USA,2494,36.45,-104.09
+Carrizozo,USA,1730,33.70,-106.00
+Cayambe,Ecuador,5790,0.03,-77.99
+Cereme,Indonesia,3078,-6.90,108.41
+Chaine des Puys,France,1464,45.78,2.97
+Chiginagak,USA,2067,57.13,-156.99
+Chikurachki,Russia,5958,50.33,155.46
+Chimborazo,Ecuador,6310,-1.46,-78.82
+Cleveland,USA,1730,52.83,-169.95
+Coatepeque,El Salvador,746,13.86,-89.54
+Colima,Mexico,4100,19.51,103.62
+Concepción,Nicaragua,1610,11.50,85.60
+Copahue,Argentina,2965,-37.85,-71.17
+Cosigüina,Nicaragua,847,12.98,-87.56
+Cotopaxi,Ecuador,5911,-0.68,-78.44
+Crater Lake,USA,2471,42.94,-122.11
+Craters of the Moon,USA,2005,43.42,-113.50
+Daisetsu,Japan,2290,43.70,142.90
+Dakataua,Papua New Guinea,400,-5.00,150.10
+Damavand,Iran,5670,35.95,52.11
+Dempo,Indonesia,3173,-4.00,103.10
+Devils Garden,USA,1525,43.50,-120.90
+Devils Tower,USA,1558,44.60,-104.70
+Diamond Craters,USA,1450,43.10,-118.70
+Dieng Volcanic Complex,Indonesia,2565,-7.20,109.90
+Diky Greben,Russia,1331,51.46,156.98
+Dubbi,Eritrea,1625,13.60,41.80
+Dukono,Indonesia,1185,1.70,127.87
+East Epi,Vanuatu,-34,-16.70,168.40
+Ebeko,Russia,1156,50.68,156.02
+Egmont (Taranaki),New Zealand,2518,-39.30,174.10
+Egon,Indonesia,788,-8.70,122.45
+El Chichon,Mexico,1060,17.36,-93.23
+Elbrus,Russia,5633,43.33,42.45
+Erebus,Antarctica,3794,-77.50,167.20
+Erta Ale,Ethiopia,613,13.60,40.70
+Etna,Italy,3350,37.73,15.00
+Fantale,Ethiopia,2007,8.98,39.93
+Fernandina,Ecuador,1476,-0.37,-91.55
+Fisher,USA,1095,-54.63,-164.42
+Fogo,Cape Verde Islands,2829,14.95,-24.35
+Fort Rock,USA,1716,43.37,-121.07
+Frosty Peak,USA,1920,55.08,-162.81
+Fuego,Guatemala,3763,14.47,-90.88
+Fuerteventura,Spain,529,28.36,-14.02
+Fuji,Japan,3776,35.36,138.73
+Furnas,Azores (Portugal),805,37.76,-25.33
+Fuss Peak,Russia,1772,50.27,155.25
+Galeras,Colombia,4276,1.22,-77.37
+Galunggung,Indonesia,2168,-7.26,108.08
+Gamalama,Indonesia,1715,0.81,127.33
+Gamchen,Russia,2576,54.97,160.68
+Gamkonora,Indonesia,1635,1.38,127.53
+Gareloi,USA,1573,51.80,178.80
+Gaua,Vanuatu,797,-14.27,167.50
+Gede,Indonesia,2958,-6.77,106.94
+Glacier Peak,USA,3213,48.11,-121.11
+Gorely,Russia,1829,52.56,158.03
+Graciosa,Azores (Portugal),402,39.02,-27.97
+Gran Canaria,Canary Islands (Spain),1950,28.00,15.58
+Great Sitkin,USA,1740,52.07,-176.13
+Griggs,USA,2317,58.35,-155.09
+Grímsvötn,Iceland,1725,64.42,-17.33
+Guagua Pichincha,Ecuador,4784,-0.17,-78.60
+Guallatiri,Chile,6071,-18.42,-69.09
+Guguan,USA,287,17.31,145.84
+Hakone,Japan,1439,35.23,139.02
+Heard,Australia,2745,-53.10,73.50
+Hibok-hibok,Philippines,1332,9.20,124.70
+Hierro,Spain,1500,27.73,-18.03
+Hood,USA,3426,45.40,-121.70
+Hualalai,USA,2523,19.69,-155.87
+Ibu,Indonesia,1325,1.49,127.63
+Ijen,Indonesia,2386,-8.06,114.24
+Iliamna,USA,3053,60.03,-153.09
+Iliboleng,Indonesia,1659,-8.34,123.26
+Iliniza,Ecuador,5248,-0.66,-78.71
+Ilopango,El Salvador,450,13.67,-89.05
+Ilyinsky,Russia,1578,51.49,157.20
+Ioto (Iwo-jima),Japan,161,24.75,141.29
+Iraya,Philippines,1009,20.47,122.01
+Irazu,Costa Rica,3431,9.98,83.85
+Isanotski,USA,2446,54.77,-163.72
+Izalco,El Salvador,1950,13.81,-89.63
+Iztaccihuatl,Mexico,5286,19.18,-98.64
+Izu-Tobu,Japan,581,34.90,139.10
+Jailolo,Indonesia,1130,1.08,127.42
+Jefferson,USA,3199,44.67,-121.80
+Jordan Craters,USA,1400,43.10,-117.40
+Kadovar,Papua New Guinea,365,-3.63,144.63
+Kaguyak,United States,901,58.62,-154.06
+Kahoolawe,United States,450,20.55,-156.57
+Kambalny,Russia,2156,51.30,156.87
+Kanaga,United States,1307,51.92,-177.17
+Kanlaon,Philippines,2435,10.41,123.13
+Karangetang [Api Siau],Indonesia,1784,2.78,125.40
+Karisimbi,CongoRwanda,4507,-1.51,29.45
+Karthala,Comoros,2361,-11.75,43.38
+Karymsky,Russia,1536,54.05,159.45
+Katla,Iceland,1512,63.63,-19.05
+Katmai,United States,2047,58.28,-154.96
+Katwe-Kikorongo,Uganda,1067,-0.08,29.92
+Kavachi,Solomon Islands,-20,-9.02,157.95
+Kell,Russia,900,51.65,157.35
+Kelut,Indonesia,1731,-7.93,112.31
+Kerinci,Indonesia,3800,1.70,101.26
+Khodutka,Russia,2090,52.06,157.70
+Kialagvik,United States,1677,57.20,-156.75
+Kick 'em Jenny,Grenada,-185,12.30,-61.64
+Kikai,Japan,704,30.79,130.31
+Kikhpinych,Russia,1552,54.49,160.25
+Kilauea,United States,1222,19.42,-155.29
+Kilimanjaro,Tanzania,5895,3.07,37.35
+Kirishima,Japan,1700,31.93,130.86
+Kliuchevskoi,Russia,4835,56.06,160.64
+Komagatake,Japan,1131,42.06,140.68
+Kone,Ethiopia,1619,8.80,39.69
+Koryaksky,Russia,3456,53.32,158.69
+Koshelev,Russia,1812,51.36,156.75
+Krafla,Iceland,818,65.73,-16.78
+Krakatau,Indonesia,813,-6.10,105.42
+Krasheninnikov,Russia,1856,54.59,160.27
+Kronotsky,Russia,3528,54.75,160.53
+Ksudach,Russia,1079,51.80,157.53
+Kukak,United States,2043,58.45,-154.36
+Kusatsu-Shirane,Japan,2171,36.64,138.54
+Kutcharo,Japan,999,43.61,144.44
+Kuttara,Japan,581,42.49,141.16
+Kuwae,Vanuatu,-2,-16.83,168.54
+La Palma,Spain,2426,28.57,-17.83
+Lamington,Papua New Guinea,1680,-8.95,148.15
+Langila,Papua New Guinea,1330,-5.53,148.42
+Lanzarote,Spain,670,29.03,-13.63
+Láscar,Chile,5592,-23.37,-67.73
+Lereboleng,Indonesia,1117,-8.36,122.84
+Lewotobi,Indonesia,1703,-8.54,122.78
+Lewotolo,Indonesia,1423,-8.27,123.51
+Liamuiga,St. Kitts and Nevis,1156,17.37,-62.80
+Lipari,Italy,602,38.48,14.95
+Little Sitkin,United States,1174,51.95,178.54
+Loihi,United States,-975,18.92,-155.27
+Lokon-Empung,Indonesia,1580,1.36,124.79
+Lolo,Papua New Guinea,805,-5.47,150.51
+Lolobau,Papua New Guinea,858,-4.92,151.16
+Loloru,Papua New Guinea,1887,-6.52,155.62
+Long Island,Papua New Guinea,1280,-5.36,147.12
+Longonot,Kenya,2776,-0.91,36.45
+Lopevi,Vanuatu,1413,-16.51,168.35
+Maderas,Nicaragua,1394,11.45,-85.52
+Mageik,United States,2165,58.20,155.25
+Mahawu,Indonesia,1324,1.36,124.86
+Makian,Indonesia,1357,0.32,127.40
+Maly Semiachik,Russia,1560,54.13,159.67
+Manam,Papua New Guinea,1807,-4.08,145.04
+Mariveles,Philippines,1388,14.52,120.47
+Marsabit,Kenya,1707,2.32,37.97
+Masaya,Nicaragua,635,11.98,-86.16
+Mashkovtsev,Russia,503,51.10,156.72
+Mashu,Japan,855,43.57,144.57
+Mauna Kea,United States,4205,19.82,-155.47
+Mauna Loa,United States,4170,19.48,-155.61
+Mayon,Philippines,2462,13.26,123.69
+McDonald Islands,Australia,230,-53.03,72.60
+McLoughlin,United States,2894,42.45,-122.32
+Mega Basalt Field,EthiopiaKenya,1067,37.42,4.08
+Menan Buttes,United States,1713,43.70,-111.96
+Menengai,Kenya,2278,-0.20,36.07
+Merapi,Indonesia,2911,-7.54,110.44
+Merbabu,Indonesia,3145,-7.45,110.43
+Meru,Tanzania,4565,-3.25,36.75
+Methana,Greece,760,37.62,23.34
+Metis Shoal,Tonga,43,-19.18,-174.87
+Michael,United Kingdom,990,-57.78,-26.45
+Michoacan-Guanajuato,Mexico,3860,19.85,-101.75
+Mílos,Greece,751,36.70,24.44
+Miyake-jima,Japan,815,34.08,139.53
+Moffett,United States,1196,51.94,-176.75
+Mojanda,Ecuador,4263,0.13,-78.27
+Momotombo,Nicaragua,1297,12.42,-86.54
+Monaco Bank,Portugal,-197,37.60,-25.88
+Mono Lake Vol Field,United States,2121,38.00,-119.03
+Monowai Seamount,New Zealand,-132,-25.89,-177.19
+Moti,Indonesia,950,0.45,127.40
+Muria,Indonesia,1625,-6.62,110.88
+Nantai,Japan,2486,36.76,139.48
+Nasu,Japan,1915,37.12,139.97
+Negro, Cerro,Nicaragua,728,12.51,-86.70
+Nemo Peak,Russia,1018,49.57,154.81
+Nevis Peak,St. Kitts and Nevis,985,17.15,-62.58
+Newberry,United States,2434,43.72,-121.23
+Newer Volcanics Province,Australia,1011,-37.77,142.50
+Ngauruhoe,New Zealand,1978,-39.13,175.64
+Nikko-Shirane,Japan,2578,36.80,139.38
+Nipesotsu-Maruyama,Japan,2013,43.45,143.04
+Nisyros,Greece,698,36.59,27.16
+Nyambeni Hills,Kenya,750,0.23,37.87
+Nyamuragira,Democratic Republic of Congo,3058,-1.41,29.20
+Nyiragongo,Democratic Republic of Congo,3470,-1.52,29.25
+Ojos del Salado,Chile/Argentina,6887,-27.12,-68.55
+Okataina,New Zealand,1111,-38.12,176.50
+Okmok,United States,1073,53.43,-168.13
+Oku Volcanic Field,Cameroon,3011,6.25,10.50
+Ol Doinyo Lengai,Tanzania,2962,-2.76,39.91
+Opala,Russia,1776,52.54,157.34
+Oraefajokull,Iceland,2119,64.00,-16.65
+Oshima,Japan,764,34.72,139.40
+Pacaya,Guatemala,2552,14.38,-90.60
+Pagan,United States,570,18.13,145.80
+Pago,Papua New Guinea,742,-5.58,150.52
+Papandayan,Indonesia,2665,-7.32,107.73
+Paricutin,Mexico,3170,19.50,-102.20
+Parinacota,Chile/Bolivia,6348,-18.17,-69.15
+Pauzhetka,Russia,1070,51.45,156.97
+Pavlof,United States,2519,55.42,-161.89
+Pavlof Sister,United States,2142,55.45,-161.84
+Pelee,France,1397,14.82,-61.17
+Peuet Sague,Indonesia,2801,4.91,96.33
+Pico,Portugal,2351,38.47,-28.40
+Pilas, Las,Nicaragua,1700,11.54,-85.62
+Pinacate,Mexico,1200,31.77,-113.50
+Pinatubo,Phillippines,1486,15.13,120.35
+Pisgah Lava Field,United States,1495,34.75,-116.63
+Piton de la Fournaise,France,2631,-21.23,55.71
+Poas,Costa Rica,2708,10.20,-84.23
+Popocatepetl,Mexico,5246,19.02,-98.62
+Prevo Peak,Russia,1360,47.02,152.12
+Purace,Colombia,4650,2.32,-76.40
+Quill, The,Netherlands,601,17.48,-62.96
+Rabaul,Papua New Guinea,688,-4.27,152.20
+Ragang,Phillippines,2815,7.70,124.50
+Raikoke,Russia,551,48.29,153.25
+Rainier,United States,4392,46.85,-121.76
+Rajabasa,Indonesia,1281,-5.78,105.63
+Raoul,New Zealand,516,-29.27,-177.92
+Rasshua,Russia,956,47.77,153.02
+Raung,Indonesia,3332,-8.13,114.04
+Rausu,Japan,1660,44.07,145.13
+Redoubt,United States,3108,60.49,-152.74
+Reventador,Ecuador,3562,-0.08,-77.66
+Rincon de la Vieja,Costa Rica,1916,10.83,-85.32
+Roundtop,United States,1871,54.80,-163.59
+Ruapehu,New Zealand,2797,-39.28,175.57
+Rudakov,Russia,542,45.88,149.83
+Ruiz, Nevado del,Colombia,5321,4.89,-75.32
+Rumble IV,New Zealand,500,-36.13,178.05
+Saba,Netherlands,887,17.63,-63.23
+Sabancaya,Peru,5967,-15.78,-71.85
+Sakar,Papua New Guinea,992,-5.41,148.09
+Sakura-jima,Japan,1117,31.59,130.66
+Salak,Indonesia,2211,-6.72,106.73
+San Cristobal,Nicaragua,1745,12.70,-87.00
+San Salvador,El Salvador,1893,13.73,-89.29
+San Vicente,Cape Verde Islands,697,16.90,-25.00
+Sanford,United States,4949,62.22,-144.13
+Sangay,Ecuador,5230,-2.00,-78.34
+Santa Ana,El Salvador,2381,13.85,-89.63
+Santa Maria,Guatemala,3772,14.76,-91.55
+Santorini,Greece,367,36.40,25.40
+Sarychev Peak,Russia,1496,48.09,153.20
+Savo,Solomon Islands,485,-9.13,159.82
+Segula,United States,1160,52.02,178.14
+Semeru,Indonesia,3676,-8.11,112.92
+Semisopochnoi,United States,1221,51.93,179.58
+Sete Cidades,Portugal,856,37.87,-25.78
+Shasta,United States,4317,41.41,-122.19
+Sheveluch,Russia,3283,56.65,161.36
+Shikotsu,Japan,1320,42.69,141.38
+Shiretoko-Iwo-zan,Japan,1563,44.13,145.17
+Shishaldin,United States,2857,54.76,-163.97
+Sinarka,Russia,934,48.88,154.18
+Smirnov,Russia,1189,44.42,146.14
+Sollipulli,Chile,2282,-38.97,-71.52
+Soputan,Indonesia,1784,1.11,124.73
+Soufriere Guadeloupe,France,1467,16.05,-61.67
+Soufrière Hills,United Kingdom,915,16.72,-62.18
+Soufrière St. Vincent,St. Vincent,1220,13.33,-61.18
+South Island,Kenya,800,2.63,36.60
+SP Mountain,United States,2141,35.60,-111.60
+Spurr,United States,3374,61.30,-152.25
+Srednii,Russia,36,47.60,152.92
+Steller,United States,2272,58.40,-154.40
+Stromboli,Italy,924,38.79,15.21
+Sumaco,Ecuador,3990,-0.54,-77.63
+Sumbing,Indonesia,3371,-7.38,110.07
+Sundoro,Indonesia,3136,-7.30,109.99
+Sunset Craters,United States,2447,35.37,-111.50
+Suswa,Kenya,2356,-1.18,36.35
+Suwanose-jima,Japan,799,29.64,129.72
+Taal,Philippines,311,14.00,120.99
+Talang,Indonesia,2597,-0.98,100.68
+Tambora,Indonesia,2850,-8.25,118.00
+Tambora,Indonesia,2850,-8.25,118.00
+Tanaga and Takawangha,United States,1806,51.89,-178.15
+Tanaga and Takawangha,United States,1806,51.89,-178.15
+Tangkubanparahu,Indonesia,2084,-6.77,107.60
+Tao-Rusyr Caldera,Russia,1325,49.35,154.70
+Tarso Voon,Chad,3100,20.92,17.28
+Telica Volcano,Nicaragua,1010,12.60,-86.85
+Tenerife,Spain,3715,28.27,-16.64
+Tengger Caldera and Bromo,Indonesia,2329,-7.94,112.95
+Three Fingered Jack,United States,2390,44.50,-121.80
+Three Sisters,United States,3100,44.10,121.77
+Thule Islands,United Kingdom,1075,-59.45,-27.37
+Tiatia,Russia,1819,44.35,146.26
+Toba,Indonesia,2157,2.58,98.83
+Todoko-Ranu,Indonesia,979,1.25,127.47
+Tokachi,Japan,2077,43.42,142.69
+Tolbachik,Russia,3682,55.83,160.33
+Tolimán,Guatemala,3158,14.61,-91.19
+Towada,Japan,1159,40.47,140.92
+Traitor's Head,Vanuatu,1881,-18.75,169.23
+Tri Sestry,Russia,998,45.93,149.92
+Tristan da Cunha,United Kingdom,2060,-37.09,-12.28
+Tsurumi,Japan,1584,33.28,131.43
+Tungurahua,Ecuador,2011,-1.47,-78.44
+Ubehebe Craters,United States,752,37.02,-117.45
+Ubinas,Peru,5672,-16.36,-70.90
+Udina,Russia,2923,55.76,160.53
+Ugashik and Peulik,United States,1474,57.75,-156.37
+Uinkaret Volcanic Field,United States,1555,36.38,-113.13
+Ulawun,Papua New Guinea,2334,-5.05,151.33
+Umboi,Papua New Guinea,1548,-5.59,147.88
+Undara,Australia,1020,-18.25,144.75
+Ungaran and Telomoyo,Indonesia,2050,-7.18,110.33
+Unzen,Japan,1500,32.76,130.29
+Urataman,Russia,678,47.12,152.25
+Ushishur,Russia,401,47.52,152.80
+Usu,Japan,737,42.54,140.84
+Uzon,Russia,1617,54.50,159.97
+Veniaminof,United States,2507,56.17,-159.38
+Vernadskii Ridge,Russia,1183,50.55,155.97
+Vesuvius,Italy,1281,40.82,14.43
+Villarrica,Chile,2847,-39.42,-71.93
+Vilyuchik,Russia,2173,52.70,158.28
+Visoke,Congo/Rwanda,3711,-1.47,29.49
+Vsevidof and Recheschnoi Volcanoes,United States,2149,53.13,-168.69
+Vulcano,Italy,500,38.40,14.96
+Washington,United States,2376,44.30,-121.80
+Wau-en-Namus,Libya,547,25.05,17.55
+Westdahl,United States,1654,54.52,-164.65
+White Island,New Zealand,321,-37.52,177.18
+Wrangell,United States,4317,62.00,-144.02
+Wudalianchi,China,597,48.72,126.12
+Yake-dake,Japan,2455,36.22,137.59
+Yali,Greece,180,36.67,27.14
+Yantarni,United States,1345,57.02,-157.19
+Yasur,Vanuatu,361,-19.53,169.44
+Yellowstone,United States,2805,44.43,-110.67
+Zavaritzki Caldera,Russia,624,46.93,151.95
+Zheltovsky,Russia,1953,51.57,157.32
+Zhupanovsky,Russia,2958,53.59,159.15
+Zimina,Russia,3081,55.86,160.60
